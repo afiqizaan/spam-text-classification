@@ -1,20 +1,9 @@
-# General libraries
 numpy
 pandas
+scikit-learn
 matplotlib
 seaborn
-
-# Text preprocessing and feature extraction
-nltk
-scikit-learn
-
-# Deep learning for neural network implementation
 tensorflow
 keras
-
-# Optimization and hyperparameter tuning
-optuna
-
-# Environment support
+nltk
 jupyter
-notebook
